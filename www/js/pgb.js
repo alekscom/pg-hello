@@ -20,3 +20,15 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function myInfo() {
+
+	info =  'Hi, I am Sasha :-)' + '\n' +
+			'=====' + '\n' +
+			'Age    :  21'    + '\n' + 
+			'Country : Ukraine'   + '\n' + 
+			'Status: Student' + '\n' ;
+
+	navigator.notification.alert(info);
+	
+}
