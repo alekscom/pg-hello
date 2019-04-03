@@ -1,0 +1,12 @@
+.name, .email, .field{
+color: brown;
+}
+
+.surname, .number{
+color: yellowgreen;
+}
+
+h1{
+    text-align: center;
+    color: dodgerblue;
+}
